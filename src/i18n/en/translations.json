@@ -1,0 +1,1378 @@
+{
+  "commons": {
+    "search": "Search",
+    "confirm": "Confirm",
+    "cancel": "Cancel"
+  },
+  "header": {
+    "aria": {
+      "sidebarToggle": "Sidebar Toggle",
+      "logo": "Company Logo",
+      "changeLanguage": "Change Language",
+      "settings": "Settings",
+      "login": "Login"
+    },
+    "menu": {
+      "profile": "Profile",
+      "logout": "Logout"
+    },
+    "version": "Version"
+  },
+  "sidebar": {
+    "pages": "Pages",
+    "dashboard": "Dashboard",
+    "profile": "Personal profile",
+    "settings": "Setting",
+    "userManagement": {
+      "title": "User Management",
+      "customerProfile": "Customer Profile",
+      "staffProfile": "Staff Profile",
+      "userGroup": "User Group",
+      "adminUsers": "Admin Users"
+    },
+    "carrierManagement": "Carrier Management",
+    "customerManagement": {
+      "title": "Customer Management",
+      "dashboard": "Dashboard"
+    },
+    "systemConfigManagement": {
+      "title": "System Configuration"
+    },
+    "permissionManagement": {
+      "title": "Permission Management"
+    },
+    "rfqManagement": {
+      "title": "Request for Quotation"
+    },
+    "priceInquiryManagement": {
+      "title": "Price Inquiry",
+      "final": "Final Price Inquiry",
+      "awaiting": "Awaiting Approve"
+    },
+    "leadManagement": "Lead Management",
+    "customerRelationshipManagement": {
+      "title": "Customer Relationship Management",
+      "orderTracking": "Order Tracking Record",
+      "outboundRecord": "Outbound Record",
+      "userComplain": "User Complain Record"
+    },
+    "staffManagement": {
+      "title": "Staff Management"
+    },
+    "employeeManagement": {
+      "title": "Employee List"
+    },
+    "supplierManagement": {
+      "title": "Supplier Management"
+    },
+    "productFamilyManagement": {
+      "title": "Product Families"
+    },
+    "purchaseOrderManagement": {
+      "title": "Purchase Order Management"
+    }
+  },
+  "button": {
+    "add": "Add",
+    "signIn": "Sign in",
+    "signOut": "Sign out",
+    "create": "Create",
+    "edit": "Edit",
+    "update": "Update",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "close": "Close",
+    "confirm": "Confirm",
+    "search": "Search",
+    "clear": "Clear",
+    "back": "Back",
+    "invite": "Invite",
+    "inviteAmount": "Invite {{amount}} emails",
+    "filter": "Filter",
+    "export": "Export",
+    "clearAll": "Clear all",
+    "save": "Save",
+    "addNew": "Add New",
+    "deleteProfile": "Delete Profile",
+    "upload": "Upload",
+    "download": "Download",
+    "addAdditional": "Add Additional",
+    "extendUser": "Extend",
+    "disabled": "Disable",
+    "enabled": "Enable",
+    "transfer": "Transfer",
+    "saveFile": "Save File",
+    "importOrder": "Import Order",
+    "importStocks": "Import Stocks",
+    "print": "Print",
+    "copy": "Copy",
+    "syncMasterItem": "Sync Master Item"
+  },
+  "general": {
+    "search": "Search",
+    "createdDate": "Created Date",
+    "createdBy": "Created By",
+    "updatedDate": "Last Updated Date",
+    "updatedBy": "Updated By",
+    "plural": "(s)",
+    "statuses": {
+      "active": "Active",
+      "inactive": "Inactive"
+    }
+  },
+  "employeeManagement": {
+    "title": "Employee List",
+    "createTitle": "Create Employee",
+    "detailTitle": "Employee Detail",
+    "userDetailTitle": "User Detail",
+    "userNotCreated": "User has not been created yet",
+    "searchPanel": "Search Employees",
+    "column": {
+      "keyword": "Keyword",
+      "employeeId": "Employee ID",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "name": "Full Name",
+      "nickName": "Nickname",
+      "position": "Position",
+      "team": "Team",
+      "phoneNumber": "Phone Number",
+      "status": "Status",
+      "additional": "Additional",
+      "isDefault": "Default",
+      "hasUser": "Has User",
+      "lineConnected": "LINE Connected",
+      "userId": "User ID",
+      "username": "Email / Username",
+      "displayName": "Display Name",
+      "role": "User Role",
+      "userStatus": "User Status",
+      "lineUserId": "LINE User ID",
+      "pictureUrl": "Profile Image URL"
+    },
+    "action": {
+      "create": "Create Employee",
+      "update": "Update Employee",
+      "openProfileImage": "Open Profile Image",
+      "generateRegisterLink": "Generate Register Link",
+      "revokeRegister": "Disconnected LINE"
+    },
+    "message": {
+      "confirmCreate": "Are you sure you want to create a new employee?",
+      "confirmUpdate": "Are you sure you want to update employee details?",
+      "createSuccess": "Employee created successfully",
+      "createFailed": "Failed to create employee",
+      "updateSuccess": "Employee updated successfully",
+      "updateFailed": "Failed to update employee",
+      "generateRegisterLinkSuccess": "Registration link copied",
+      "resetLineBindingSuccess": "LINE connection has been removed"
+    },
+    "validation": {
+      "employeeId": "Please input employee ID",
+      "employeeIdDuplicate": "Duplicate employee ID. Please enter a new one",
+      "firstNameTh": "Please input first name",
+      "lastNameTh": "Please input last name",
+      "nickName": "Please input nickname",
+      "position": "Please input position",
+      "phoneNumber": "Please input phone number",
+      "status": "Please select status",
+      "team": "Please input team"
+    },
+    "value": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "datetimePicker": {
+    "invalidDateMessage": "Invalid Date Format",
+    "invalidLabel": "unknown",
+    "cancelLabel": "Cancel",
+    "clearLabel": "Clear",
+    "okLabel": "OK",
+    "todayLabel": "Today"
+  },
+  "toast": {
+    "loading": "Loading...",
+    "success": "Success",
+    "failed": "Failed"
+  },
+  "message": {
+    "backTitle": "Confirm back",
+    "backMsg": "Do you want to leave this page?",
+    "clearDataTitle": "Confirm clear data",
+    "clearDataMsg": "Do you want to clear all form data?"
+  },
+  "authentication": {
+    "success": "Login successful",
+    "error": {
+      "emailRequired": "Email is required",
+      "usernameRequired": "Username is required",
+      "passwordRequired": "Password is required",
+      "invalidEmail": "Email is invalid",
+      "invalidPassword": "Password is invalid",
+      "invalidUserToken": "Token is invalid",
+      "invalidCredential": "Invalid credential",
+      "userNotFound": "User not found",
+      "userDisabled": "User is disabled",
+      "userTokenExpired": "Token has expired",
+      "userMismatch": "User mismatch",
+      "weakPassword": "Password must contain at least 8 characters, one uppercase, one number and one special case character",
+      "requiresRecentLogin": "Please re-login again",
+      "authenticationFailed": "Login failed",
+      "permissionNotAllowed": "Permission not allowed",
+      "unknownError": "An unknown authentication error occurred, Please contact operation support",
+      "passwordCondition": "Password must contain at least 8 characters, one uppercase, one number and one special character",
+      "accessDenied": "User cannot access",
+      "userNotRegistered": "User is not registered yet, Please contact administrator for registration"
+    }
+  },
+  "login": {
+    "title": "DPK Flower",
+    "email": "Email Address",
+    "username": "Username",
+    "password": "Password",
+    "rememberMe": "Remember Me"
+  },
+  "home": {
+    "title": "Welcome to DPK Flower",
+    "todo": {
+      "title": "To-Do List",
+      "pageTitle": "To-Do List",
+      "loading": "Loading your to-do items...",
+      "empty": "No to-do items",
+      "viewMore": "View More",
+      "add": "Add",
+      "createTitle": "Add To-Do",
+      "createAction": "Save To-Do",
+      "fields": {
+        "title": "Title",
+        "description": "Description",
+        "priority": "Priority",
+        "dueDate": "Due Date"
+      },
+      "priority": {
+        "low": "Low",
+        "medium": "Medium",
+        "high": "High",
+        "urgent": "Urgent"
+      }
+    }
+  },
+  "forbidden": {
+    "title": "403 - Forbidden: Access is denied"
+  },
+  "notFound": {
+    "title": "404 - Page Not Found"
+  },
+  "supplierManagement": {
+    "title": "Supplier Management",
+    "supplier": "Supplier",
+    "searchPanel": "Search supplier",
+    "contactCard": "Contact {{index}}",
+    "defaultContact": "Set as default contact",
+    "detail": {
+      "generalInfo": "General information",
+      "contactInfo": "Contact information",
+      "allContacts": "All contacts"
+    },
+    "action": {
+      "create": "Create supplier",
+      "createShort": "Create New",
+      "edit": "Edit supplier",
+      "view": "View supplier",
+      "action": "Action"
+    },
+    "column": {
+      "id": "Supplier id",
+      "name": "Supplier name",
+      "code": "Code",
+      "email": "Email",
+      "fullAddress": "Address",
+      "fullAddressEn": "Address (EN)",
+      "countryCode": "Country",
+      "city": "City",
+      "street": "Street",
+      "detailAddress": "Detail address",
+      "additional": "Additional",
+      "wechat": "WeChat",
+      "status": "Status",
+      "rank": "Rank",
+      "type": "Supplier type",
+      "mainProduct": "Main Product",
+      "productType": "Supplier product type",
+      "contactName": "Contact Name",
+      "contactNumber": "Contact Number",
+      "phoneContactName": "Phone Contact Name",
+      "lineContactName": "Line Contact Name",
+      "behavior": "Behavior",
+      "senderName": "Sender Name",
+      "workingHours": "Working Hours",
+      "period": "Period",
+      "orderMethod": "Order Method",
+      "sendingMethod": "Sending Method",
+      "address": {
+        "title": "Address",
+        "tumbon": "Tumbon",
+        "amphure": "Amphure",
+        "province": "Province",
+        "postalCode": "Postal code",
+        "location": "Address location"
+      },
+      "creditTerm": "Credit term",
+      "transferMethod": "Transfer method",
+      "account": {
+        "name": "Account name",
+        "number": "Account number",
+        "bankName": "Bank name"
+      }
+    },
+    "message": {
+      "confirmCreateTitle": "Confirm create supplier",
+      "confirmCreateMessage": "Do you want to create this supplier?",
+      "createSuccess": "Supplier created successfully",
+      "createFailed": "Failed to create supplier"
+    },
+    "validation": {
+      "supplierName": "Please input supplier name",
+      "email": "Invalid email format",
+      "countryCode": "Please input country",
+      "contactName": "Please input contact name",
+      "contactNumber": "Please input contact number",
+      "contactMin": "Please add at least 1 contact"
+    }
+  },
+  "productFamilyManagement": {
+    "title": "Product Families",
+    "searchPanel": "Search product family",
+    "searchPlaceholder": "Search by code, family, material or usage",
+    "summary": {
+      "familyCount": "{{count}} families",
+      "materialCount": "{{count}} materials",
+      "usageCount": "{{count}} product subtype1"
+    },
+    "label": {
+      "code": "Code",
+      "materials": "Materials",
+      "productUsages": "Product Subtype1",
+      "systemMechanics": "Product Subtype2",
+      "optionalMechanic": "Optional"
+    }
+  },
+  "staffManagement": {
+    "title": "Staff Management",
+    "staff": "Staff",
+    "searchPanel": "Search staff",
+    "detail": "Detail",
+    "action": {
+      "create": "Create new staff",
+      "createUser": "Create user",
+      "edit": "Edit staff",
+      "view": "View detail",
+      "inactive": "Inactive",
+      "active": "Active",
+      "delete": "Delete staff"
+    },
+    "column": {
+      "id": "Staff id",
+      "name": "Name",
+      "lastname": "Last name",
+      "nickname": "Nickname",
+      "telNo": "Phone number",
+      "duty": "Duty",
+      "startWorkingHour": "Start working hour",
+      "endWorkingHour": "End working hour",
+      "startWorkingDate": "Start working date",
+      "company": "Company",
+      "role": "Role",
+      "type": "Type",
+      "nationality": "Nationality",
+      "status": "Status",
+      "workingspace": "Workingspace"
+    },
+    "validateMessage": {
+      "firstName": "Please input staff's name",
+      "lastName": "Please input staff's last name",
+      "nickname": "Please input staff's nickname",
+      "nationality": "Please select staff's nationality",
+      "roleCode": "Please select staff's role",
+      "company": "Please select company",
+      "workspace": "Please select workspace"
+    },
+    "newUser": "Create new user",
+    "confirmMsgNewUser": "Are you sure you want to create a new user?",
+    "newStaff": "Create new staff",
+    "confirmMsgNewStaff": "Are you sure you want to create a new staff?",
+    "updateStaff": "Update staff",
+    "confirmMsgUpdateStaff": "Are you sure you want to update staff?",
+    "updateStaffSuccess": "Update staff success!!",
+    "updateStaffFailed": "Update staff failed because ",
+    "inactiveStaff": "Inactive staff",
+    "confirmMsgInactiveStaff": "Are you sure you want to inactive staff?",
+    "activeStaff": "Active staff",
+    "confirmMsgActiveStaff": "Are you sure you want to active staff?",
+    "deleteStaff": "Delete staff",
+    "confirmMsgDeleteStaff": "Are you sure you want to delete staff? (This action cannot by undone)",
+    "deleteStaffSuccess": "Delete staff success!!",
+    "deleteStaffFailed": "Delete staff failed because ",
+    "inactiveStaffSuccess": "Inactive staff success!!",
+    "inactiveStaffFailed": "Inactive staff failed because ",
+    "activeStaffSuccess": "Active staff success!!",
+    "activeStaffFailed": "Active staff failed because ",
+    "createStaffSuccess": "Create new staff success!!",
+    "createStaffFailed": "Create new staff failed because "
+  },
+  "userManagement": {
+    "title": "User Management",
+    "user": "User",
+    "tableHeaders": {
+      "userId": "User ID",
+      "username": "User Name",
+      "email": "User Email",
+      "role": "Role",
+      "status": "User Status",
+      "company": "Company"
+    },
+    "status": {
+      "ACTIVE": "Active",
+      "INACTIVE": "Inactive",
+      "PENDING_ACTIVATE": "Pending activation"
+    },
+    "actions": {
+      "resetPassword": "Reset Password",
+      "edit": "Edit User",
+      "setInactive": "Set Inactive",
+      "delete": "Delete User"
+    },
+    "createNewUser": {
+      "title": "Create New User",
+      "username": "User Name",
+      "usernamePlaceholder": "Please input Username",
+      "email": "User Email",
+      "emailPlaceholder": "Please input Email address",
+      "role": "Role",
+      "rolePlaceholder": "Please select role",
+      "password": "Password",
+      "passwordPlaceholder": "Please input Password",
+      "company": "Company",
+      "companyPlaceholder": "Please select company",
+      "confirmTitle": "Create New User",
+      "confirmMsg": "Are you confirm to create a new user?",
+      "emailInvalid": "Email is invalid",
+      "createSuccess": "Create a new user success",
+      "createFailure": "Create a new user failed"
+    },
+    "resetPasswordDialog": {
+      "title": "Reset new password success.",
+      "message": "Your new password is "
+    }
+  },
+  "customerManagement": {
+    "title": "การจัดการข้อมูลลูกค้า",
+    "customerId": "รหัสลูกค้า",
+    "customer": "ลูกค้า",
+    "detail": "รายละเอียด",
+    "history": "History",
+    "dropoff": "รายละเอียดในการจัดส่ง",
+    "action": {
+      "create": "สร้างลูกค้าใหม่"
+    },
+    "column": {
+      "id": "รหัสลูกค้า",
+      "name": "ชื่อร้าน",
+      "telNo": "เบอร์โทร",
+      "contactName": "ชื่อผู้ติดต่อ",
+      "gender": "เพศลูกค้า",
+      "dateOfBirth": "วัน/เดือน/ปี เกิด",
+      "type": "ประเภทลูกค้า",
+      "tier": "Customer Tier",
+      "segment": "Customer Segment",
+      "action": "Action",
+      "taxId": "เลขบัตรประชาชน/เลขประจำตัวผู้เสียภาษี",
+      "address": {
+        "title": "ที่อยู่",
+        "addNew": "Add Address",
+        "tumbon": "ตำบล/แขวง",
+        "amphure": "อำเภอ/เขต",
+        "province": "จังหวัด",
+        "postalCode": "รหัสไปรษณีย์",
+        "location": "โลเคชั่นของร้าน"
+      },
+      "company": {
+        "name": "ชื่อบริษัท",
+        "branchName": "ชื่อสาขา",
+        "branchCode": "รหัสสาขา"
+      },
+      "sendingBillMethod": "ช่องทางการส่งบิล",
+      "orderChannel": "ช่องทางการติดต่อที่สะดวก",
+      "purchaseChannel": "ช่องทางการสั่งซื้อที่สะดวก",
+      "behavior": "ลักษณะนิสัย",
+      "creditTerm": "เงื่อนไขการให้เครดิต",
+      "paymentTerm": "Payment term",
+      "billingCondition": "Billing condition",
+      "paymentCycle": "Payment cycle",
+      "salesAccount": "Sales Account",
+      "coSalesAccount": "External / Freelance Sales",
+      "totalSalesOrderAmount": "Total Sales Order Amount",
+      "dropOff": {
+        "no": "จุดลงของที่ ",
+        "areaType": "ประเภทพื้นที่ลูกค้า",
+        "shippingMethod": "วิธีการส่งสินค้า",
+        "shippingFeeMethod": "วิธีการจ่ายค่าขนส่ง",
+        "transportationMethod": "วิธีการขนส่ง",
+        "supplier": "ขนส่งที่ใช้บริการ",
+        "location": "สถานที่ส่งสินค้า",
+        "name": "ชื่อหน้ากล่อง/ชื่อร้าน",
+        "time": "เวลาส่งสินค้า",
+        "remark": "หมายเหตุ",
+        "isDefault": "ตั้งเป็นจุดลงของเริ่มต้น"
+      }
+    },
+    "searchPanel": "ค้นหาข้อมูลลูกค้า",
+    "customerName": "ชื่อ-นามสกุลลูกค้า",
+    "customerFirstName": "ชื่อลูกค้า",
+    "customerLastName": "นามสกุลลูกค้า",
+    "email": "อีเมลล์",
+    "phoneNumber": "เบอร์ติดต่อ",
+    "gender": "เพศลูกค้า",
+    "addNewCustomerButton": "สร้างลูกค้าใหม่",
+    "message": {
+      "validatePaymentTerm": "Please select payment term"
+    },
+    "searchCustomerButton": "ค้นหาข้อมูลลูกค้า",
+    "clearCustomerButton": "เคลียร์ข้อมูลลูกค้า",
+    "placeHolder": {
+      "customerId": "กรุณาระบุรหัสลูกค้า",
+      "customerFirstName": "กรุณาระบุชื่อลูกค้า",
+      "customerLastName": "กรุณาระบุนามสกุลลูกค้า",
+      "phoneNumber": "กรุณาระบุเบอร์ติดต่อลูุกค้า"
+    },
+    "addContact": "Add Contact",
+    "confirmMsgAddCustomerAddress": "Are you sure you want to add this address?",
+    "confirmMsgAddCustomerContact": "Are you sure you want to add this contact?",
+    "confirmMsgDeleteCustomerAddress": "Are you sure you want to delete address {{label}}?",
+    "confirmMsgDeleteCustomerContact": "Are you sure you want to delete contact {{name}}?"
+  },
+  "customerDashboard": {
+    "title": "Customer Dashboard",
+    "subtitle": "Summary of active customers in the system",
+    "activeOnlyNote": "This page counts active customers only.",
+    "metrics": {
+      "totalCustomers": "Total customers",
+      "totalCustomersSub": "Active customers in the system",
+      "totalContacts": "Total contacts",
+      "totalContactsSub": "All customer contacts",
+      "totalAddresses": "Total addresses",
+      "totalAddressesSub": "All customer addresses",
+      "companyCustomers": "Company customers",
+      "companyCustomersSub": "Customer Type = COMPANY",
+      "individualCustomers": "Individual customers",
+      "individualCustomersSub": "Customer Type = INDIVIDUAL",
+      "defaultAddressCustomers": "Customers with default address",
+      "defaultAddressCustomersSub": "Has at least one default address",
+      "lastUpdated": "Last updated",
+      "lastUpdatedSub": "Based on the newest customer data"
+    },
+    "charts": {
+      "typeTitle": "Customer type mix",
+      "typeSubtitle": "Grouped by customer type",
+      "tierTitle": "Customer tier mix",
+      "tierSubtitle": "Grouped by customer tier",
+      "segmentTitle": "Customer segment mix",
+      "segmentSubtitle": "Grouped by customer segment"
+    },
+    "recent": {
+      "title": "Recent customers",
+      "subtitle": "Latest created or updated customers",
+      "contactCount": "Contacts",
+      "addressCount": "Addresses"
+    }
+  },
+  "dashboard": {
+    "title": "Operations Dashboard",
+    "subtitle": "Shared overview for sales, procurement, and operations with role-based focus areas.",
+    "rfq": {
+      "title": "RFQ Dashboard",
+      "lastUpdated": "Last updated",
+      "sections": {
+        "metrics": "RFQ Overview",
+        "workQueues": "RFQ Work Queues",
+        "quickLinks": "Quick Links"
+      },
+      "metrics": {
+        "total": {
+          "title": "Total RFQs",
+          "subtitle": "Quotation requests within the selected date range"
+        },
+        "new": {
+          "title": "Awaiting Acceptance",
+          "subtitle": "RFQs waiting for procurement to accept"
+        },
+        "inProgress": {
+          "title": "In Progress",
+          "subtitle": "RFQs currently being sourced by procurement"
+        },
+        "supplierQuoted": {
+          "title": "Supplier Quoted",
+          "subtitle": "RFQs ready for price comparison and summary"
+        },
+        "quoted": {
+          "title": "Quoted",
+          "subtitle": "RFQs ready for quotation or next action"
+        },
+        "specialPrice": {
+          "title": "Special Price Review",
+          "subtitle": "RFQs waiting for special price review"
+        },
+        "overdueSla": {
+          "title": "Overdue SLA",
+          "subtitle": "Applies to NEW and IN_PROGRESS only"
+        }
+      },
+      "charts": {
+        "volume": {
+          "title": "RFQ Volume by Requested Date",
+          "subtitle": "Compare new RFQs, urgent requests, and special price reviews"
+        },
+        "procurementFlow": {
+          "title": "Procurement Flow",
+          "subtitle": "Compare new, sourcing, supplier-quoted, and quoted RFQs"
+        },
+        "salesFlow": {
+          "title": "Sales Flow",
+          "subtitle": "Overview of RFQs across each stage in the selected range"
+        },
+        "status": {
+          "title": "Status Distribution",
+          "subtitle": "RFQ status mix within the selected date range"
+        },
+        "family": {
+          "title": "Product Family Distribution",
+          "subtitle": "Most frequently requested product groups"
+        },
+        "channel": {
+          "title": "Contact Channel Distribution",
+          "subtitle": "RFQs grouped by contact channel"
+        },
+        "bySales": {
+          "title": "By Sales Owner",
+          "subtitle": "RFQs coming from each sales owner"
+        },
+        "byProcurement": {
+          "title": "By Procurement Owner",
+          "subtitle": "RFQs distributed across procurement owners"
+        },
+        "bySalesCount": {
+          "title": "RFQ Count by Sales Owner",
+          "subtitle": "Number of RFQs owned by each sales person in the selected period"
+        },
+        "byCustomerTypeCount": {
+          "title": "RFQ Count by Customer Type",
+          "subtitle": "Count RFQs by customer type and include records that are not yet customers"
+        },
+        "sla": {
+          "title": "SLA Status",
+          "subtitle": "Only tracked jobs with active SLA"
+        },
+        "acceptWorkDuration": {
+          "title": "Accept time distribution",
+          "subtitle": "Count RFQs by time from NEW to IN_PROGRESS excluding weekends and holidays",
+          "buckets": {
+            "lt1h": "Less than 1 hour",
+            "lte3h": "Within 3 hours",
+            "lte6h": "Within 6 hours",
+            "lte1d": "Within 1 day",
+            "lte2d": "Within 2 days",
+            "lte3d": "Within 3 days",
+            "gt3d": "More than 3 days",
+            "notAccepted": "Not yet accepted"
+          }
+        },
+        "supplierQuoteDuration": {
+          "title": "Supplier response distribution",
+          "subtitle": "Count RFQs by time from IN_PROGRESS to SUPPLIER_QUOTED excluding weekends and holidays",
+          "buckets": {
+            "lt1h": "Less than 1 hour",
+            "lte3h": "Within 3 hours",
+            "lte6h": "Within 6 hours",
+            "lte1d": "Within 1 day",
+            "lte2d": "Within 2 days",
+            "lte3d": "Within 3 days",
+            "gt3d": "More than 3 days",
+            "remaining": "Not yet replied"
+          }
+        },
+        "acceptWorkDurationPercentile": {
+          "title": "Median / P90 accept time",
+          "subtitle": "Use this to spot accept-time outliers by day"
+        }
+      },
+      "queues": {
+        "awaitingAccept": {
+          "title": "RFQs Awaiting Acceptance",
+          "subtitle": "New RFQs waiting for procurement acceptance"
+        },
+        "inProgress": {
+          "title": "RFQs In Progress",
+          "subtitle": "RFQs currently under procurement follow-up"
+        },
+        "requestedInfo": {
+          "title": "RFQs Requesting More Information",
+          "subtitle": "RFQs waiting for additional information update"
+        },
+        "supplierQuoted": {
+          "title": "RFQs Supplier Quoted",
+          "subtitle": "RFQs with supplier quotes ready for summary"
+        },
+        "awaitingQuotation": {
+          "title": "RFQs Awaiting Quotation",
+          "subtitle": "Quoted RFQs without quotation number yet"
+        },
+        "specialPrice": {
+          "title": "RFQs Special Price Review",
+          "subtitle": "RFQs waiting for target price review"
+        }
+      },
+      "quickLinks": {
+        "create": {
+          "title": "Create RFQ",
+          "subtitle": "Open a new quotation request form"
+        },
+        "rfqList": {
+          "title": "RFQ List",
+          "subtitle": "Browse all quotation requests"
+        },
+        "priceInquiry": {
+          "title": "Price Inquiry List",
+          "subtitle": "Review procurement work and supplier quotes"
+        }
+      }
+    },
+    "orderToday": "Today's Order",
+    "more": "More >",
+    "businessAnalytics": "Business Analytics",
+    "revenue": "Revenue",
+    "totalOrder": "Total Orders",
+    "cancelledOrder": "Cancelled Orders",
+    "lastUpdated": "Last updated",
+    "fallbackNotice": "Dashboard API is not available yet. Showing sample data for layout preview.",
+    "loadFailed": "Unable to load dashboard data.",
+    "viewAll": "View all",
+    "noPendingItems": "No pending work in this section.",
+    "range": {
+      "last7Days": "Last 7 days"
+    },
+    "filters": {
+      "month": "Month",
+      "dateFrom": "Date from",
+      "dateTo": "Date to",
+      "sales": "Sales owner",
+      "procurement": "Procurement owner",
+      "appliedRange": "Applied range"
+    },
+    "sections": {
+      "metrics": "7-day highlights",
+      "workQueues": "Priority work queues",
+      "quickLinks": "Quick actions"
+    },
+    "metrics": {
+      "rfqNew": "New RFQs",
+      "rfqNewSubtitle": "Incoming RFQs in the last 7 days",
+      "quotationNew": "New Quotations",
+      "quotationNewSubtitle": "Quotations created in the last 7 days",
+      "saleOrderNew": "New Sale Orders",
+      "saleOrderNewSubtitle": "Orders created in the last 7 days",
+      "invoiceOverdue": "Overdue Invoices",
+      "invoiceOverdueSubtitle": "Invoices that need follow-up",
+      "purchasePending": "Pending Purchase Orders",
+      "purchasePendingSubtitle": "Purchase work still open"
+    },
+    "charts": {
+      "documentVolumeTitle": "Document volume trend",
+      "documentVolumeSubtitle": "RFQ, quotation, and sale order activity across the last 7 days",
+      "teamLoadTitle": "Open workload by function",
+      "teamLoadSubtitle": "Cross-team open operational items",
+      "salesPipelineTitle": "Sales pipeline status",
+      "salesPipelineSubtitle": "Quotation and sales follow-up mix",
+      "procurementStatusTitle": "Procurement status mix",
+      "procurementStatusSubtitle": "Open procurement work grouped by current stage",
+      "financeStatusTitle": "Billing and invoice status",
+      "financeStatusSubtitle": "Operational finance workload snapshot"
+    },
+    "queues": {
+      "rfqFollowUpTitle": "RFQs to follow up",
+      "rfqFollowUpSubtitle": "New or pending RFQs that need action",
+      "quotationExpiringTitle": "Quotations nearing expiry",
+      "quotationExpiringSubtitle": "Quotes that need follow-up before expiry",
+      "purchaseOrderTitle": "Purchase orders needing action",
+      "purchaseOrderSubtitle": "Buying, receiving, or blocked purchase orders",
+      "invoiceOverdueTitle": "Invoices overdue or due today",
+      "invoiceOverdueSubtitle": "Finance follow-up items"
+    },
+    "quickLinks": {
+      "createRfq": "Create RFQ",
+      "createRfqDesc": "Start a new quotation request",
+      "quotationList": "Quotation List",
+      "quotationListDesc": "Follow up open quotations",
+      "purchaseOrders": "Purchase Orders",
+      "purchaseOrdersDesc": "Review buying and receiving tasks",
+      "invoiceCenter": "Invoice Center",
+      "invoiceCenterDesc": "Check overdue and payment follow-up",
+      "customerList": "Customer List",
+      "customerListDesc": "Open customer records and account details",
+      "receiveProduct": "Receive Product",
+      "receiveProductDesc": "Process receiving tasks for today"
+    },
+    "criteriaDays": {
+      "today": "Today",
+      "lastWeek": "Last 7 days",
+      "lastMonth": "Last 30 days",
+      "specific": "Specific date"
+    }
+  },
+  "search": {
+    "initPlaceholderInputField": "Enter Search"
+  },
+  "warning": {
+    "noResult": "No Result. Please try again",
+    "noResultList": "Sorry, we couldn’t find any results",
+    "noData": "No Data",
+    "required": "Required Field",
+    "moreThanZero": "Need to fill value more than 0",
+    "inputNumber": "Please enter a number"
+  },
+  "pagination": {
+    "totalRecords": "Total Records",
+    "rowsPerPage": "Rows per page",
+    "of": "of"
+  },
+  "role": {
+    "ADMIN": "Administrator",
+    "USER": "User"
+  },
+  "settingConfig": {
+    "title": "System Configuration",
+    "searchPanel": "Search Configuration",
+    "mobileTitle": "Configuration List",
+    "editDialogTitle": "Edit System Configuration",
+    "createDialogTitle": "Create System Configuration",
+    "confirmTitle": "Confirm Update",
+    "confirmMessage": "Do you want to update this configuration?",
+    "createConfirmTitle": "Confirm Create",
+    "createConfirmMessage": "Do you want to create this new configuration?",
+    "column": {
+      "groupCode": "Group",
+      "code": "Code",
+      "nameTh": "Thai Name",
+      "nameEn": "English Name",
+      "sort": "Sort",
+      "keyword": "Keyword"
+    }
+  },
+  "rfqManagement": {
+    "title": "Request for Quotation",
+    "listTitle": "Quotation Request List",
+    "createTitle": "Create RFQ",
+    "mobileTitle": "Quotation Requests",
+    "action": {
+      "create": "Create Request"
+    },
+    "column": {
+      "id": "RFQ No.",
+      "requestedDate": "Requested Date",
+      "status": "Status",
+      "contact": "Contact",
+      "contactName": "Contact Name",
+      "contactPhone": "Contact Phone",
+      "contactChannel": "Contact Channel",
+      "sales": "Sales",
+      "orderType": "Order Type",
+      "productFamily": "Product Family",
+      "capacity": "Capacity",
+      "pictures": "Reference Images"
+    },
+    "form": {
+      "customerMode": "Customer Type",
+      "customerModeNew": "New Customer",
+      "customerModeExisting": "Existing Customer",
+      "customerId": "Customer",
+      "contactName": "Contact Name",
+      "contactPhone": "Contact Phone",
+      "contactChannel": "Contact Channel",
+      "salesId": "Sales",
+      "rfqTypeCode": "RFQ Type",
+      "orderTypeCode": "Order Type",
+      "productFamily": "Product Family",
+      "productUsage": "Product Subtype1",
+      "systemMechanic": "Product Subtype2",
+      "material": "Material",
+      "capacity": "Capacity",
+      "targetPrice": "Target Price",
+      "requestedMoqs": "Requested MOQ",
+      "requestedMoq": "MOQ",
+      "description": "Description",
+      "pictures": "Reference Images",
+      "pictureHelper": "Upload up to 5 reference images",
+      "attachments": "Attachments",
+      "attachmentHelper": "Upload additional files for this RFQ",
+      "noAttachments": "No attachments uploaded",
+      "customerSearchHelper": "Type to search customer",
+      "noCustomerOptions": "No customers found"
+    },
+    "validation": {
+      "customerId": "Please select customer",
+      "contactName": "Please input contact name",
+      "contactPhone": "Please input a valid contact phone",
+      "salesId": "Please select sales",
+      "rfqTypeCode": "Please select RFQ type",
+      "orderTypeCode": "Please select order type",
+      "productFamily": "Please input product family",
+      "productUsage": "Please input product subtype1",
+      "systemMechanic": "Please input product subtype2",
+      "material": "Please input material",
+      "capacity": "Please input capacity",
+      "targetPrice": "Please input a valid target price greater than 0",
+      "requestedMoqs": "Please input a valid MOQ greater than 0",
+      "requestedMoqsRequired": "Please fill in every MOQ value",
+      "description": "Please input description"
+    },
+    "message": {
+      "confirmCreateTitle": "Confirm create RFQ",
+      "confirmCreateMsg": "Do you want to create a new RFQ?",
+      "confirmUpdateTitle": "Confirm save RFQ",
+      "confirmUpdateMsg": "Do you want to save changes to this RFQ?",
+      "createSuccess": "RFQ created successfully",
+      "createFailed": "Failed to create RFQ "
+    },
+    "detail": {
+      "tabs": {
+        "detail": "RFQ Detail",
+        "history": "History"
+      },
+      "sections": {
+        "general": "RFQ Details",
+        "options": "Price Options",
+        "additional": "Additional Details"
+      },
+      "fields": {
+        "referenceRfqId": "Reference RFQ",
+        "procurementId": "Procurement",
+        "shippingMethod": "Shipping Method",
+        "createdDate": "Created Date",
+        "updatedDate": "Updated Date",
+        "optionName": "Option Name",
+        "spec": "Spec",
+        "remark": "Remark",
+        "productPrice": "Product Price",
+        "landFreightCost": "Land Freight Cost",
+        "seaFreightCost": "Sea Freight Cost"
+      },
+      "actions": {
+        "confirmPrice": "Confirm Price",
+        "requestQuotation": "Request Quotation",
+        "requestSpecialPrice": "Request Special Price Review",
+        "downloadQuotation": "Download Quotation",
+        "downloadSalesOrder": "Download Sales Order Confirmation",
+        "close": "Close",
+        "reject": "Reject",
+        "openFile": "Open File",
+        "openReferenceRfq": "Open reference RFQ"
+      },
+      "additionalCost": {
+        "name": "Name",
+        "description": "Description",
+        "value": "Value",
+        "unit": "Unit",
+        "empty": "No additional details yet"
+      },
+      "dialogs": {
+        "saveOptionsTitle": "Confirm save price options",
+        "saveOptionsMessage": "Do you want to save all newly added price options?",
+        "deleteOptionTitle": "Confirm delete price option",
+        "deleteOptionMessage": "Do you want to delete {{optionName}}?",
+        "deleteAdditionalCostTitle": "Confirm delete additional detail",
+        "deleteAdditionalCostMessage": "Do you want to delete {{description}}?",
+        "missingCustomerTitle": "Customer data not found",
+        "missingCustomerMessage": "Customer data is not available in the system. Please create the customer before issuing a quotation.",
+        "rejectTitle": "Confirm reject RFQ",
+        "rejectMessage": "Do you want to reject RFQ {{id}}?",
+        "closeTitle": "Confirm close RFQ",
+        "closeMessage": "Do you want to close RFQ {{id}}?",
+        "reasonLabel": "Reason",
+        "reasonPlaceholder": "Specify the reason for closing this RFQ",
+        "confirmPriceDescription": "Select a quotation item to use for confirming the price.",
+        "loadingQuotation": "Loading quotation data...",
+        "noQuotation": "No quotation items available for price confirmation"
+      },
+      "quotationTable": {
+        "select": "Select",
+        "item": "Quotation Item",
+        "quantity": "Quantity",
+        "shippingMethod": "Shipping Method",
+        "unitPrice": "Unit Price",
+        "amount": "Amount"
+      },
+      "urgent": {
+        "title": "Urgent Request Detail",
+        "status": "Status",
+        "statusApproved": "Urgent request approved",
+        "statusRejected": "Urgent request rejected",
+        "statusPending": "Urgent request pending approval",
+        "requestReason": "Request Reason",
+        "rejectReason": "Reject Reason"
+      }
+    },
+    "status": {
+      "NEW": "New"
+    },
+    "rfqsStatus": {
+      "NEW": "New Request",
+      "IN_PROGRESS": "In Progress",
+      "SUPPLIER_QUOTED": "Supplier Quoted",
+      "SPECIAL_PRICE_REVIEW": "Special Price Review",
+      "QUOTED": "Quoted",
+      "CANCELED": "Canceled",
+      "COMPLETED": "Completed"
+    }
+  },
+  "priceInquiryManagement": {
+    "title": "Price Inquiry",
+    "listTitle": "Price Inquiry List",
+    "mobileTitle": "Price Inquiries",
+    "suggestSupplier": {
+      "title": "Suggest Supplier",
+      "loading": "Loading data",
+      "capabilities": "Capabilities",
+      "allMaterials": "All Materials",
+      "noCapabilities": "No capability data found",
+      "noData": "No suggest supplier data found"
+    },
+    "generateInquiry": {
+      "title": "Generated Inquiry Message",
+      "thaiMessage": "Thai Message",
+      "chineseMessage": "Chinese Message",
+      "button": "Generate Message",
+      "confirmUpdateTitle": "Confirm inquiry message update",
+      "confirmUpdateMsg": "Do you want to save changes to this inquiry message?"
+    },
+    "generateFinalInquiry": {
+      "title": "Final Inquiry Message",
+      "button": "Generate Message",
+      "translateButton": "Translate Message",
+      "messageLabel": "Generated Message"
+    },
+    "finalExtract": {
+      "title": "Translate Final Pricing Message",
+      "button": "Translate Message",
+      "helperText": "Supplier: {{supplierName}}",
+      "inputLabel": "Message to Translate",
+      "inputPlaceholder": "Paste the message you want AI to convert into final pricing data such as MOQ, prices, shipping cost, packaging, or additional costs"
+    },
+    "action": {
+      "create": "Create Inquiry"
+    }
+  },
+  "inputUpload": {
+    "title": "Upload File",
+    "subTitle": "Browse to choose a file.",
+    "submitButton": "UPLOAD",
+    "helperText": "*File type must be .xlsx only",
+    "invalidType": "Unable to upload. File does not match our criteria. Please retry.",
+    "chooseFileButton": "Choose file",
+    "helperTextV2": "Select an .xlsx file to upload data"
+  },
+  "tablePagination": {
+    "rowPerPage": "Rows per page",
+    "pageStatus": "{{page}} of {{totalPage}}"
+  },
+  "createOrder": {
+    "title": "Create Order",
+    "save": "Save",
+    "reset": "Reset",
+    "warning": {
+      "selectCustomer": "Please select customer.",
+      "addProduct": "Please select product at least 1 product."
+    },
+    "poLineStatus": {
+      "PROCESSING": "Processing",
+      "INCOMPLETE": "Incomplete",
+      "COMPLETE": "Complete",
+      "CANCEL": "Cancel"
+    },
+    "orderInformationSection": {
+      "title": "Order Information",
+      "complete": "Completed",
+      "inProgress": "In Progress",
+      "canceled": "Canceled",
+      "waitingForTransfer": "Waiting for Transfer",
+      "shipped": "Shipped",
+      "billCreated": "Bill Created",
+      "billNotCreate": "Bill Not Create",
+      "paymentTransferred": "Payment Transferred",
+      "fields": {
+        "labels": {
+          "orderStatus": "Order Status",
+          "orderMaker": "Order Maker Name",
+          "sendingTime": "Send/Receive Time",
+          "freight": "Freight Fee",
+          "additionalItem": "Additional Item",
+          "notes": "Note",
+          "billingStatus": "Billing Status"
+        }
+      },
+      "searchStaffDialog": {
+        "title": "Search Staff"
+      }
+    },
+    "customerInformationSection": {
+      "title": "Customer Information",
+      "searchBtn": "Search Customer",
+      "searchCustomerDialog": {
+        "title": "Search Customer"
+      },
+      "fields": {
+        "labels": {
+          "customerId": "Customer ID",
+          "customerName": "Customer Full Name",
+          "contactNumber": "Contact Number",
+          "sendingBillMethod": "Billing Method",
+          "behavior": "Behavior",
+          "customerCreditTerm": "Credit Term",
+          "shippingMethod": "Shipping Method",
+          "supplierName": "Service Provider",
+          "shippingFeeMethod": "Shipping Fee Payment Method",
+          "transportationMethod": "Transportation Method",
+          "shippingAddress": "Shipping Address"
+        }
+      }
+    },
+    "addProductSection": {
+      "title": "Product",
+      "editProductBtn": "Edit Selecting Product",
+      "searchProductDialog": {
+        "title": "Edit Selecting Product",
+        "column": {
+          "productName": "Product Name",
+          "productSku": "SKU"
+        }
+      },
+      "fields": {
+        "labels": {
+          "amount": "Amount"
+        },
+        "errors": {
+          "invalidAmount": "Invalid amount"
+        }
+      }
+    }
+  },
+  "orderManagement": {
+    "column": {
+      "orderNumber": "Order Number",
+      "customerName": "Customer Name",
+      "orderId": "Order Id",
+      "poStatus": "Po Status",
+      "poMakerDisplayName": "Po Display Name",
+      "billingStatus": "Billing Status",
+      "sendingTime": "Send/Receive Time",
+      "freight": "Freight Fee",
+      "remark": "Remark"
+    }
+  },
+  "orderDetail": {
+    "customerId": "Customer ID",
+    "customerName": "Customer Name",
+    "contactNumber": "Phone Number",
+    "contactName": "Contact Person",
+    "sendingBillMethod": "Billing Method",
+    "creditTerm": "Credit Terms",
+    "shippingMethod": "Shipping Method",
+    "supplierName": "Transport Provider",
+    "shippingFeeMethod": "Shipping Fee Payment Method",
+    "transportationMethod": "Mode of Transportation",
+    "addressName": "Delivery Location"
+  },
+  "documentManagement": {
+    "title": "Document Management",
+    "message": {
+      "confirmCreateQuotationTitle": "Confirm Create Quotation",
+      "confirmCreateQuotationMsg": "Do you want to create a new quotation?"
+    },
+    "quotation": {
+      "title": "Quotation",
+      "searchPanel": "Search Quotation",
+      "newQuotation": "Create New Quotation",
+      "newQuotationButton": "Create Quotation",
+      "detail": "Detail",
+      "editQuotation": "Edit Quotation",
+      "viewQuotation": "View Quotation",
+      "viewQuotationTitle": "Quotation No. {{docNo}}",
+      "downloadQuotation": "Download Quotation",
+      "generalSection": "Quotation Information",
+      "confirmUpdateTitle": "Confirm Save Quotation",
+      "confirmUpdateMsg": "Do you want to save changes to this quotation?",
+      "docNo": "Document No.",
+      "docDate": "Document Date",
+      "status": "Status",
+      "expectiveDate": "Expiry Date",
+      "remark": "Customer Remark",
+      "salesAccount": "Sales Account",
+      "coSalesAccount": "External / Freelance Sales",
+      "currency": "Currency",
+      "taxSection": {
+        "title": "Price and Tax",
+        "include": "VAT Included",
+        "exclude": "VAT Excluded",
+        "noVat": "No VAT"
+      },
+      "customerSection": {
+        "title": "Customer Information",
+        "branch": "Branch",
+        "contactName": "Contact Name",
+        "contactNumber": "Contact Number"
+      },
+      "itemSection": {
+        "title": "Items",
+        "image": "Image",
+        "name": "Item",
+        "description": "Description",
+        "type": "Item Type",
+        "capacity": "Capacity",
+        "spec": "Specification",
+        "quantity": "Quantity",
+        "unitPrice": "Unit Price",
+        "totalAmount": "Amount",
+        "addItem": "Add Item",
+        "noImage": "No Image",
+        "uploadImage": "Upload",
+        "removeImage": "Remove Image"
+      },
+      "summarySection": {
+        "title": "Summary",
+        "subtotal": "Subtotal",
+        "discount": "Discount",
+        "freight": "Freight",
+        "vat": "VAT",
+        "grandTotal": "Grand Total",
+        "vatRate": "VAT Rate",
+        "total": "Total"
+      }
+    },
+    "invoice": {
+      "title": "Invoice",
+      "newInvoice": "Create Invoice",
+      "createInvoiceButton": "Create Invoice",
+      "createInvoiceMenu": "Create Invoice",
+      "createPOMenu": "Create Purchase Order",
+      "confirmCreateTitle": "Confirm Create Invoice",
+      "confirmCreateMessage": "Do you want to create an invoice from this sales order?",
+      "generalSection": "Invoice Information",
+      "referenceSalesOrder": "Reference Sales Order",
+      "docDate": "Document Date",
+      "dueDate": "Due Date",
+      "currency": "Currency",
+      "remark": "Remark",
+      "customerSection": {
+        "title": "Customer Information",
+        "address": "Address",
+        "contactName": "Contact Name",
+        "contactNumber": "Contact Number"
+      },
+      "salesSection": {
+        "title": "Sales Information",
+        "salesAccount": "Sales Account",
+        "coSalesAccount": "External / Freelance Sales",
+        "status": "Sales Order Status"
+      },
+      "itemSection": {
+        "name": "Item",
+        "spec": "Description",
+        "unitPrice": "Unit Price",
+        "quantity": "Quantity",
+        "totalAmount": "Amount"
+      },
+      "summarySection": {
+        "title": "Summary",
+        "subtotal": "Subtotal",
+        "remainingAmount": "Remaining Amount",
+        "depositAmount": "50% Deposit Amount",
+        "discount": "Discount",
+        "freight": "Freight",
+        "vat": "VAT",
+        "grandTotal": "Grand Total"
+      }
+    },
+    "receipt": {
+      "title": "Receipt",
+      "newReceipt": "Create Receipt",
+      "createReceiptButton": "Create Receipt",
+      "confirmCreateTitle": "Confirm Create Receipt",
+      "confirmCreateMessage": "Do you want to create a receipt from this payment entry?",
+      "generalSection": "Receipt Information",
+      "referenceInvoice": "Reference Invoice",
+      "referencePayment": "Reference Payment",
+      "receiptType": "Document Type",
+      "docDate": "Document Date",
+      "currency": "Currency",
+      "remark": "Remark",
+      "customerSection": {
+        "title": "Customer Information",
+        "address": "Address",
+        "contactName": "Contact Name",
+        "contactNumber": "Contact Number"
+      },
+      "salesSection": {
+        "salesAccount": "Sales Account"
+      },
+      "paymentSection": {
+        "title": "Payment Information",
+        "paymentMethod": "Payment Method",
+        "paymentDate": "Payment Date",
+        "paymentAmount": "Payment Amount",
+        "cheque": "Cheque Information"
+      },
+      "itemSection": {
+        "name": "Item",
+        "spec": "Description",
+        "unitPrice": "Unit Price",
+        "quantity": "Quantity",
+        "totalAmount": "Amount"
+      },
+      "summarySection": {
+        "title": "Summary",
+        "subtotal": "Subtotal Before VAT",
+        "discount": "Discount",
+        "amount": "Amount",
+        "vat": "VAT",
+        "grandTotal": "Grand Total"
+      }
+    }
+  },
+  "permissionManagement": {
+    "title": "User Permission Management",
+    "matrixTitle": "Role Permission Matrix",
+    "matrixDescription": "Rows are permissions and columns are roles that have each permission.",
+    "loadFailed": "Unable to load permission data.",
+    "noData": "No permissions found.",
+    "confirmSaveTitle": "Confirm Permission Changes",
+    "confirmSaveMessage": "Do you want to save the user permission changes?",
+    "resetDefault": "Reset to Default",
+    "table": {
+      "permission": "Permission"
+    },
+    "group": {
+      "account": "Account",
+      "dashboard": "Dashboard",
+      "document": "Document",
+      "freight": "Freight",
+      "master_data": "Master Data",
+      "customer": "Customer",
+      "employee": "Employee",
+      "operation": "Operation",
+      "product": "Product",
+      "rfq": "Request for Quotation",
+      "support": "Support",
+      "system": "System",
+      "supplier": "Supplier"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+[
+    {
+      "shortName": "C101",
+      "fullName": "ความรู้เท่าทันคาร์บอนในชีวิตประจำวัน (Carbon Literacy for Daily Life)",
+      "categoryId": "5",
+      "summary": "หลักสูตรพื้นฐาน 1 วัน ราคา 2,500-4,500 บาท สำหรับบุคคลทั่วไป เรียนรู้คาร์บอนฟุตพริ้นท์ส่วนบุคคล
+      การคำนวณ 4 มิติหลัก การถอดรหัสฉลาก การเลือกซื้อตามหลัก Life Cycle Thinking การหลีกเลี่ยง Greenwashing
+      และการวางแผนลดคาร์บอนในชีวิตประจำวัน",
+      "visible": true
+    },
+    {
+      "shortName": "C102",
+      "fullName": "การจัดการขยะและการคัดแยกเพื่อลดคาร์บอน (Waste Management & Carbon Reduction)",
+      "categoryId": "5",
+      "summary": "หลักสูตร 1 วัน ราคา 2,500-4,500 บาท เจาะลึกการลดคาร์บอนจากการจัดการขยะ การคัดแยกพลาสติก
+      7 ประเภท การทำปุ๋ยหมัก ระบบธนาคารขยะ Recycling Benefit และ Avoidance Factor",
+      "visible": true
+    },
+    {
+      "shortName": "C103",
+      "fullName": "อาชีพสีเขียวในยุคเศรษฐกิจคาร์บอนต่ำ (Introduction to Green Jobs)",
+      "categoryId": "5",
+      "summary": "หลักสูตร 1 วัน ราคา 2,500-4,500 บาท สำหรับคนทั่วไปและคนวัยทำงาน เรียนรู้แนวโน้ม Green Jobs,
+      Greening Jobs, CBAM, Hard/Soft Green Skills, ESG 101, มาตรฐาน ISO 14064
+      และการพัฒนาทักษะเพื่อเข้าสู่ตลาดงานสายยั่งยืน",
+      "visible": true
+    },
+    {
+      "shortName": "C201",
+      "fullName": "การบริหารจัดการคาร์บอนในการดำเนินงานองค์กร (Carbon Awareness & Management for
+      Operations)",
+      "categoryId": "6",
+      "summary": "หลักสูตร 2 วัน ราคา 9,000-15,000 บาท สำหรับบริษัท/โรงงาน เน้น Green Procurement,
+      Supplier Audit, Scope 3, Green Criteria, Life Cycle Costing, Green Vendor List และ ESG
+      assessment สำหรับการดำเนินงานองค์กร",
+      "visible": true
+    },
+    {
+      "shortName": "C202",
+      "fullName": "เทคโนโลยีการผลิตที่สะอาด (Cleaner Production Technology)",
+      "categoryId": "6",
+      "summary": "หลักสูตร 2 วัน ราคา 9,000-15,000 บาท สำหรับวิศวกรและผู้ควบคุมการผลิต เน้น Source
+      Reduction, การลดการสูญเสียทรัพยากรและพลังงาน, การเปลี่ยนสารเคมีเป็นมิตรต่อโลก และ In-plant Recycling
+      เพื่อสู่ Zero Waste to Landfill",
+      "visible": true
+    },
+    {
+      "shortName": "C203",
+      "fullName": "ระบบดิจิทัลเพื่อการติดตามคาร์บอน (Digital Transformation for Carbon Tracking)",
+      "categoryId": "6",
+      "summary": "หลักสูตร 2 วัน สำหรับองค์กรที่ต้องการยกระดับ Carbon Accounting ใช้ IoT, Smart Meter,
+      Carbon Accounting Platform และ Dashboard เพื่อข้อมูลเรียลไทม์และรายงานความยั่งยืนที่ตรวจสอบได้",
+      "visible": true
+    },
+    {
+      "shortName": "C301",
+      "fullName": "ผู้นำความยั่งยืนเชิงกลยุทธ์ (Chief Sustainability Officer - CSO Strategy)",
+      "categoryId": "7",
+      "summary": "หลักสูตร 2 วัน ราคา 15,000-30,000 บาท สำหรับผู้บริหารระดับสูงและคณะกรรมการ เน้น ESG,
+      Business Model Innovation, Purpose-driven Culture
+      และการวางรากฐานความยั่งยืนให้เป็นส่วนหนึ่งของกลยุทธ์องค์กร",
+      "visible": true
+    },
+    {
+      "shortName": "C302",
+      "fullName": "การบริหารความเสี่ยงทางการเงินจากภูมิอากาศ (Climate Financial Risk Management)",
+      "categoryId": "7",
+      "summary": "หลักสูตร 1-2 วัน ราคา 15,000-30,000 บาท สำหรับผู้บริหารและสายการเงิน เรียนรู้ Scenario
+      Analysis, Carbon Cost, Physical Risk, Transition Risk, ERM, Internal Carbon Pricing
+      และการสื่อสารความเสี่ยงต่อผู้ถือหุ้น",
+      "visible": true
+    },
+    {
+      "shortName": "C303",
+      "fullName": "การสื่อสารองค์กรสีเขียวและธรรมาภิบาล (ESG Communication & Anti-Greenwashing)",
+      "categoryId": "7",
+      "summary": "หลักสูตร 1 วัน ราคา 15,000-30,000 บาท สำหรับทีมสื่อสาร/ผู้บริหาร เรียนรู้การสื่อสาร ESG
+      อย่างโปร่งใส การป้องกัน Greenwashing, Claim Verification, Internal Audit for PR และ Crisis
+      Communication",
+      "visible": true
+    },
+    {
+      "shortName": "C304",
+      "fullName": "ทิศทางการลงทุนในสินทรัพย์สีเขียว (Green Investment Opportunities)",
+      "categoryId": "7",
+      "summary": "หลักสูตร 1 วัน ราคา 15,000-30,000 บาท สำหรับผู้บริหารและการเงิน เรียนรู้ Green Bond,
+      Sustainability-Linked Loan, Transition Finance, ESG Scores, Portfolio Decarbonization และ
+      Tax Incentives สำหรับธุรกิจสีเขียว",
+      "visible": true
+    }
+  ]
